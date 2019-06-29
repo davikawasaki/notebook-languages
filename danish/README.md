@@ -1,17 +1,26 @@
 # My notebook notes - Danish
-=========
 
 Personal public notes and relevant knowledge-gathering regarding my study path through Danish language. Feel free to check each notebook topics from the table of contents below or send pull requests or issues.
 
 ## Table of Contents
-=========
 
 <!--ts-->
    * [Reference Links](#reference-links)
-   * [Common Phrases](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-common-phrases.md)
-   * [Alphabet](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-alphabet.md)
-   * [Grammar](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-grammar.md)
-   * [IPA & Pronunciation](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-ipa-pronunciation.md)
+      * [Learning](#learning)
+      * [Courses](#courses)
+      * [Resources](#resources)
+         * [Guides](#guides)
+         * [Vocabulary and Verbs](#vocabulary-and-verbs)
+         * [Exercises](#exercises)
+         * [Audios and Videos](#audios-and-videos)
+         * [Mix](#mix)
+      * [News](#news)
+      * [Online Dictionaries](#online-dictionaries)
+      * [Books and Audiovisuals](#books-and-audiovisuals)
+   * Common Phrases
+   * Alphabet
+   * Grammar
+   * IPA & Pronunciation
    * [Cheat Sheets](https://github.com/davikawasaki/notebook-languages/tree/master/danish/resources/cheat-sheets)
 <!--te-->
 
@@ -131,7 +140,7 @@ Personal public notes and relevant knowledge-gathering regarding my study path t
 
 2. [Forvo](https://forvo.com/languages/da/): Audio dictionary with multiple words pronunciation.
 
-### Books, Videos and Songs
+### Books and audiovisuals
 
 1. [Danish Fundamentals for Brazilians - Portuguese Edition](https://amzn.to/2IsOSb5): Covers basic language understanding with comparison to the Portuguese language  - **everything in Portuguese and Danish**.
 
@@ -146,4 +155,3 @@ Personal public notes and relevant knowledge-gathering regarding my study path t
 6. [Danske Børnesange](http://sangetilboern.dk/): Text, videos, audios and information regarding danish childhood cultural songs - **everything in Danish**.
 
 7. [Faktalink Articles](https://faktalink.dk/): Articles regarding danish culture through diverse themes - **everything in Danish**.
-

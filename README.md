@@ -1,18 +1,15 @@
 # My notebook notes - Languages
-=========
 
 Personal public notes and relevant knowledge-gathering regarding my study path through different worldwide languages. Inspiration from [Azer's notebook version](https://github.com/azer/notebook). Feel free to check each notebook topics from the table of contents below or send pull requests or issues.
 
 ## Table of Contents
-=========
 
 <!--ts-->
    * [Danish](https://github.com/davikawasaki/notebook-languages/blob/master/danish/README.md)
-      * [Links](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-links.md)
-      * [Common Phrases](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-common-phrases.md)
-      * [Alphabet](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-alphabet.md)
-      * [Grammar](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-grammar.md)
-      * [IPA & Pronunciation](https://github.com/davikawasaki/notebook-languages/blob/master/danish/danish-ipa-pronunciation.md)
+      * Common Phrases
+      * Alphabet
+      * Grammar
+      * IPA & Pronunciation
       * [Cheat Sheets](https://github.com/davikawasaki/notebook-languages/tree/master/danish/resources/cheat-sheets)
    * [Miscellaneous](#miscellaneous)
 <!--te-->
